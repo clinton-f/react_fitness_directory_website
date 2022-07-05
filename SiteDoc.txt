@@ -1,0 +1,53 @@
+
+Initialise the application:
+npx create-react-app ./
+
+Remove Unnecessary files:
+Remove the src folder.
+
+Add:
+Re-create an empty src folder
+Indext.js
+App.js
+App.css
+Add assets folder with images, icons, etc…
+
+Add a utils folder to keep all the functions:
+.env: add the private stuff, like api keys, database info…
+
+Hide folders:
+In .gitignore file, add the name of the files
+Like this → .env.*
+
+Create a components folder and Add:
+Navbar.js
+Footer.js 
+
+Create pages folder and Add:
+Home.js
+ExerciseDetail.js
+
+
+→ Don’t forget to Create the component in the component folder, so React doesn’t throw a hissyfit. 
+
+
+npm install --legacy-peer-deps
+
+npm i @emotion/react
+
+npm i @mui/icons-material
+
+npm i @mui/material
+
+npm i react-horizontal-scrolling-menu
+
+npm i react-horizontal-scrolling-menu@2.7.1
+
+npm i react-loader-spinner
+
+npm i react-router-dom
+
+npm i dotenv
+
+
+
