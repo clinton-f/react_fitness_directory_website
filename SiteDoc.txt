@@ -1,3 +1,6 @@
+To Start the App:
+npm start
+
 
 Initialise the application:
 npx create-react-app ./
